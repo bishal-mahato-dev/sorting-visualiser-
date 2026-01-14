@@ -49,3 +49,10 @@ java MainVisualizer
 
 ### Graph Traversal Visualizer
 ![Graph Traversal Visualizer](assets/graph_visualizer.png)
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/dea88102-f4b7-4543-b179-7dbeade13c8a
+
+
