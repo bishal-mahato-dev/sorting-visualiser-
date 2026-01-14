@@ -38,6 +38,7 @@ through interactive and step-by-step visualization.
 ```bash
 javac MainVisualizer.java
 java MainVisualizer
+```
 
 ---
 
